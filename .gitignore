@@ -1,0 +1,10 @@
+# CMake
+
+build
+bin
+lib
+
+# DiscordSDK
+
+discord
+download.zip
